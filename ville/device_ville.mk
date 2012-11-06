@@ -136,7 +136,7 @@ PRODUCT_MANUFACTURER := HTC
 
 # Set build fingerprint / ID / Product Name ect.	
 PRODUCT_BUILD_PROP_OVERRIDES += PRODUCT_NAME=htc_ville BUILD_FINGERPRINT=tmous/ville/ville:4.0.4/IMM
-76D/96068.7:user/release-keys PRIVATE_BUILD_DESC="=2.35.531.7 CL96068 release-keys" BUILD_NUMBER=96068
+76D/96068.7:user/release-keys PRIVATE_BUILD_DESC="2.35.531.7 CL96068 release-keys" BUILD_NUMBER=96068
 
 PRODUCT_COPY_FILES += \
     vendor/aokp/prebuilt/bootanimation/bootanimation_540_960.zip:system/media/bootanimation.zip
